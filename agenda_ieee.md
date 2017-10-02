@@ -13,6 +13,10 @@ This year’s workshop will be focusing on challenges related to the **Visualiza
 
 Within this domain, there are already a multitude of well-known challenges, such as comparing the genomic sequences, and transcriptomes of tumor cells with those of normal cells, or the comprehensive characterisation of different types and subtypes of cancer, as well as several clinical applications such as improved diagnosis of cancer, prenatal screening, or the design of targeted therapeutic agents, to name a few. There are several cancer genomics data sets that are readily available ([GENIE](http://www.aacr.org/Research/Research/Pages/aacr-project-genie.aspx), [TCGA](https://cancergenome.nih.gov/)) and several platforms provide APIs to access such data sets (e.g. [cBio Portal](http://www.cbioportal.org/), [GDC](https://portal.gdc.cancer.gov/)).
 
+### Workshop Goal
+
+The goal of the workshop is to lay the groundwork for a position paper on challenges and research opportunities for data visualization in cancer genomics. Workshop organizers and interested workshop participants will collaboratively refine the results of the discussions after the event and write this position paper. At a minimum, all participants will be acknowledged for their contribution.
+
 ### Timeline
 **When:** October 2nd, 2017, 8:30 - 12:10
 
