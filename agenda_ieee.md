@@ -55,7 +55,7 @@ The goal of the workshop is to lay the groundwork for a position paper on challe
 
 <div>
   <div class="sumTime" style="padding-top:5px;"> 9:40 - 10:10 </div>
-    <div class="ttile" style="padding-left:120px; padding-top:5px;">Group work Session 1: Introductions and outline questions for domain experts.</div>
+    <div class="ttile" style="padding-left:120px; padding-top:5px;">Group work Session 1: Introductions and outline questions for domain experts. (<a href="https://docs.google.com/document/d/1kKMTkqLAYWjZIUnnFiEir_gU4AnirI3RfKRdepRHeCY/edit">Live Google Document</a>)</div>
 </div>  
 
 <hr>
@@ -67,7 +67,7 @@ The goal of the workshop is to lay the groundwork for a position paper on challe
 
 <div>
   <div class="sumTime" style="padding-top:5px;"> 10:30 - 11:45 </div>
-    <div class="ttile" style="padding-left:120px; padding-top:5px;">Group work Session 2: Prioritize questions, interview domain expert, develop ideas, and draft report</div>
+    <div class="ttile" style="padding-left:120px; padding-top:5px;">Group work Session 2: Prioritize questions, interview domain expert, develop ideas, and draft report (<a href="https://docs.google.com/document/d/1kKMTkqLAYWjZIUnnFiEir_gU4AnirI3RfKRdepRHeCY/edit">Live Google Document</a>)</div>
 </div>  
 
 <div>
